@@ -1,9 +1,9 @@
 # test_repo_pylinter_v1
 
 ## Description
-Demo repo to accompany YouTube video demonstrating how to use the [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub action.
+Demo repo to accompany YouTube video demonstrating how to use [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub Action written by myself.
 
-https://github.com/marketplace/actions/pylinter
+The YouTube video can be found here https://www.youtube.com/watch?v=oi94qEvi9Qo.
 
 ## Contents
 * `main.py`
