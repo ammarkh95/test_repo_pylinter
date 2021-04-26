@@ -3,7 +3,7 @@
 ## Description
 Demo repo to accompany YouTube video demonstrating how to use [`pylinter`](https://github.com/marketplace/actions/pylinter) GitHub Action written by myself.
 
-The YouTube video can be found here https://www.youtube.com/watch?v=oi94qEvi9Qo&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq.
+The YouTube video can be found [here](https://www.youtube.com/watch?v=oi94qEvi9Qo&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq).
 
 ## Contents
 * `main.py`
